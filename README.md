@@ -1,5 +1,5 @@
 # MBTI Visualization | Spring 2024
-This is the repository for the MBTI visualization project done in Information Visualization course at NYU Shanghai. It aims to implement an interactive data-driven narrative visualization by D3 and React. Please feel free to email me at rd2910@nyu.edu for any more information.
+This is the repository for the MBTI visualization project done in Information Visualization course at NYU Shanghai. It aims to implement an interactive data-driven narrative visualization by D3 and React. Please feel free to email me at ruoheng.du@nyu.edu for any more information.
 
 ### Unlocking the Human Puzzle
 * This project is done in collaboration with Ray Bao and Victoria Fu.
